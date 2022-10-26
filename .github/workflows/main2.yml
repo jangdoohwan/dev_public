@@ -1,5 +1,5 @@
 
-name: hello-world
+name: tict_scp_dev
 on: push
 jobs:
   my-job:
